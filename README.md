@@ -36,8 +36,7 @@ PharmaNearby is a cross-platform React Native app built with Expo that helps use
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/pharma-nearby.git
-   cd pharma-nearby
+   git clone https://github.com/Darshhhhh/DrugFinder-React-Native.git
    ```
 
 2. Install dependencies:
